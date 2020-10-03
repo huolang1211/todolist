@@ -2,7 +2,7 @@ surveySystem
 Thank you to all the people who already contributed to this project！
 
 Introduction
-后端使用 django & DRF 实现的 restfulApi
+#后端使用 django & DRF 实现的 restfulApi
 
 前端使用 vue & element-ui
 
